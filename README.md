@@ -1,5 +1,8 @@
 # PROJECT OVERVIEW
-The Eastern Washington University grants office previously used a FileMaker Pro database to manage the records for all grants submitted and received by the university. This database technology is now out of date and lacks a user-friendly way to interact with the data. The goal of this project is to migrate the data into a SQL database, along with developing a user-friendly front-end for staff to manipulate records. 
+The Eastern Washington University grants office previously used a FileMaker Pro database to manage the records for all grants submitted and received by the university. This database technology is now out of date and lacks a user-friendly way to interact with the data. The goal of this project is to migrate the data into a SQL database, along with developing a user-friendly front-end for staff to manipulate records.
+
+Link to video demonstration: https://www.youtube.com/watch?v=9Y9uU0Ck3O0&ab_channel=alan
+
 ### TECHNOLOGIES
  - [Node.js](https://nodejs.org/en/) for runtime environment
  - [Express.js](https://expressjs.com/) for the backend framework
